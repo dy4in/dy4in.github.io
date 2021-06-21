@@ -59,7 +59,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : false
+  powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -105,7 +105,7 @@ author:
       url: "mailto:deepak.id1988@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https:dy4in.github.io"
+      url: "https://dy4in.github.io"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/dy4in"
@@ -137,7 +137,7 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/dy4in"
     - label: "Instagram"
