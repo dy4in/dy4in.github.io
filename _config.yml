@@ -98,7 +98,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Using **Data** as a resource to solve world issues"
   location         : "Gurugram"
-    - url: "https://goo.gl/maps/3gSmyHTzXpBqmhSH9"
   email            : "deepak.id1988@gmail.com"
   links:
     - label: "Email"
@@ -109,7 +108,7 @@ author:
       url: "https:dy4in.github.io"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/dy4in"
+      url: "https://linkedin.com/in/dy4in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
