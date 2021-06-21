@@ -97,7 +97,7 @@ author:
   name             : "Deepak Singh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Using **Data** as a resource to solve world issues"
-  location         : [Gurugram](https://goo.gl/maps/3gSmyHTzXpBqmhSH9)
+  location         : <a href="https://goo.gl/maps/3gSmyHTzXpBqmhSH9" target="_top">Gurugram</a>
   email            : # email id
   links:
     - label: "Email"
@@ -223,6 +223,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
