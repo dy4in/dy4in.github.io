@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deepak Singh"
+title                    : #""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Deepak Singh"
@@ -131,13 +131,13 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dy4in"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Linkedin"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/dy4in"
     - label: "Instagram"
