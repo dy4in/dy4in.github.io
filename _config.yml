@@ -97,8 +97,8 @@ author:
   name             : "Deepak Singh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Using **Data** as a resource to solve world issues"
-  location         : "Gurugram"
-  email            : "deepak.id1988@gmail.com"
+  location         : [Gurugram](https://goo.gl/maps/3gSmyHTzXpBqmhSH9)
+  email            : # email id
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
