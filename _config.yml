@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #""
+title                    : "Deepak Singh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Deepak Singh"
+name                     : #"Deepak Singh"
 description              : "Data Science and ML Enthusiast. Creative with Data and Driver of Impactful Insights"
 url                      : "https://dy4in.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deepak Singh"
+  name             : #"Deepak Singh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Using **Data** as a resource to solve world issues"
   location         : <a href="https://goo.gl/maps/3gSmyHTzXpBqmhSH9" target="_top">Gurugram</a>
